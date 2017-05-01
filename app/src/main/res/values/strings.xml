@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">SingleScreenApp</string>
     <string name="wikar">Ford Dealer Wikar Kraków</string>
-    <string name="www">http://www.wikar.pl/</string>
+    <string name="www">www: www.wikar.pl</string>
     <string name="work_hours">work hours: Mon-Fri 7-18</string>
-    <string name="tel">tel: +4812292294</string>
-    <string name="adr">adr: Zakopiańska 58B Kraków</string>
+    <string name="tel">Tel: +4812292294</string>
+    <string name="adr">St: Zakopiańska 58B Kraków</string>
 </resources>
